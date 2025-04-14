@@ -54,3 +54,6 @@ npm run dev
 cd client
 npm run dev
 http://localhost:5173
+
+![image](https://github.com/user-attachments/assets/119768ed-d599-4217-9db6-81575fcab7c7)
+
